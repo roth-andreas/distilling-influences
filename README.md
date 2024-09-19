@@ -22,3 +22,7 @@ This file contains the training code for the teacher model.
 ### run.sh
 
 This is a shell script that directly runs all models. To run this file, please provide a conda environment in the first line of the file.
+
+## Acknowledgement
+
+Part of this research has been funded by the Federal Ministry of Education and Research of Germany and the state of North-Rhine Westphalia as part of the Lamarr-Institute for Machine Learning and Artificial Intelligence and by the Federal Ministry of Education and Research of Germany under grant no. 01IS22094E WEST-AI.
